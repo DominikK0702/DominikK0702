@@ -2,22 +2,22 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤫 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Working as a software engineer at a industrial automation company located in austria.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | C++ | R (Statistics) | MATLAB
+- 💻 &nbsp; Python | C++ | C# 
 - 🏭 &nbsp; TwinCat 3 | TIA V14+ | e! Cockpit
 - 🌐 &nbsp; HTML | CSS | JavaScript |  Vue.js | Node.js
 - 🛢 &nbsp; Postgresql | SQLite
-- 🔧 &nbsp; Git | Markdown | Selenium
+- 🔧 &nbsp; Snap7 | Git | Markdown | Selenium
 - 🖥 &nbsp; Affinity Designer | Affinity Photo
 
 
 <br/>
 
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DominikK0702&show_icons=true)](https://github.com/AVS1508)
+[![DominikK0702's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DominikK0702&show_icons=true)](https://github.com/DominikK0702)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
