@@ -7,9 +7,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C++ | C# 
-- 🏭 &nbsp; TwinCat 3 | TIA V14+ | e! Cockpit
-- 🌐 &nbsp; HTML | CSS | JavaScript |  Vue.js | Node.js
+- 💻 &nbsp; Python | C++ | C# | Node.js
+- 🏭 &nbsp; TwinCat 3 | TIA V14+ | e! Cockpit | Eagle
+- 🌐 &nbsp; HTML | CSS | JavaScript | Vue.js
 - 🛢 &nbsp; Postgresql | SQLite
 - 🔧 &nbsp; Snap7 | Git | Markdown | Selenium
 - 🖥 &nbsp; Affinity Designer | Affinity Photo
@@ -17,6 +17,8 @@
 
 <br/>
 
+![https://www.codewars.com/users/DominikK0702/badges/small](https://www.codewars.com/users/DominikK0702/badges/small)
+<br/>
 [![DominikK0702's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DominikK0702&show_icons=true)](https://github.com/DominikK0702)
 
 <h3> 🤝🏻 Connect with Me </h3>
